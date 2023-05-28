@@ -1,0 +1,2 @@
+# Market and Sales Analysis Presentation Deck
+This the presentation deck for Market and Sales Analysis for a Superstore project. The objective of this project is to determine the right market and customer to optimize 2020 business strategy of a fictional Superstore which will result in higher profit and revenue. The analysis performed are Business Performance, Consumer Behavior, and Operational Performance Analysis. The result of this analysis will be market priority which should be focused for a better 2020 strategy.
